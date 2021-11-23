@@ -1,0 +1,15 @@
+.photoBlock {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 20px;
+}
+
+.photo {
+    height: 200px;
+    width: 200px;
+}
+
+.photoRtl {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}

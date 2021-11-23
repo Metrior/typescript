@@ -1,0 +1,8 @@
+.flow {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.bottom-block {
+    height: 1px !important;
+}
